@@ -18,6 +18,7 @@ O objetivo é consolidar o aprendizado, demonstrar proficiência em Excel e apre
 * **Microsoft Power BI Desktop** | Desenvolvimento do modelo de dados, ETL e criação de visuais.
 * **Power Query (M)** | Transformação e carregamento de dados (ETL).
 * **DAX (Data Analysis Expressions)** | Criação de Medidas, Colunas Calculadas e KPIs (Key Performance Indicators).
+* **Azure** | Orquestração de pipelines de dados, extração, transformação e carregamento (ETL/ELT) em ambientes cloud.
 
 ## 🤝 Contribuições
 

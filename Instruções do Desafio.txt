@@ -1,0 +1,10 @@
+Descrição do desafio de modelagem dimensional:
+
+Objetivo: 
+Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+Montar o Star Schema com foco na análise dos dados do professor.
+
+O que deve ser feito?
+Deverá ser criada a tabela Fato que contêm o contexto analisado. Da mesma forma, é necessária a criação das tabelas dimensão que serão compostas pelos detalhes relacionados ao contexto.
+
+Obs: Sample sem dados cadastrados.
